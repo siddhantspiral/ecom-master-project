@@ -1,0 +1,17 @@
+# Node dependencies (Frontend)
+frontend/node_modules/
+frontend/dist/
+
+# Java/Spring Boot builds (Backend)
+backend/target/
+backend/.gradle/
+backend/build/
+bin/
+
+# IntelliJ IDEA specific files (Imp for you!)
+.idea/
+*.iml
+out/
+
+# Mac OS specific system files
+*.DS_Store
